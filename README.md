@@ -1,16 +1,24 @@
-## Hi there 👋
+# MagesOnFuel
 
-<!--
-**magesonfuel/magesonfuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://img.shields.io/badge/Website-magesonfuel.xyz-blue)](https://magesonfuel.xyz/)
+[![X (Twitter) Follow](https://img.shields.io/twitter/follow/magesonfuel?style=social)](https://x.com/magesonfuel)
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-blue)](https://t.me/magesonfuel)
 
-Here are some ideas to get you started:
+## Introduction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**MagesOnFuel** is a blazing collection of **1111 Mages**, weaving magic on the Fuel blockchain. Join our vibrant community of magic-wielding enthusiasts and own a piece of Fuel-powered sorcery!.
+
+## Community
+
+Stay updated and connect with us:
+
+- **Website**: [magesonfuel.xyz](https://magesonfuel.xyz/)
+- **X (Twitter)**: [@magesonfuel](https://x.com/magesonfuel)
+- **Telegram**: [Join our Telegram group](https://t.me/magesonfuel)
+
+## Acknowledgements
+
+- [Fuel Blockchain](https://fuel.network)
+
+---
+
